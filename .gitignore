@@ -1,0 +1,7 @@
+.idea/*
+.vscode/*
+cmake-build-debug/*
+cmake-build-release/*
+data/*
+data_ct/*
+data_ct_transformed/*
