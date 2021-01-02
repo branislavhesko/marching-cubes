@@ -1,0 +1,10 @@
+{
+  "data_folder": "../data",
+  "output_file": "test.obj",
+  "visualize_slices": true,
+  "visualize_3D": true,
+  "grid_size": 10,
+  "save_into_obj_file": true,
+  "normalize": true,
+  "image_loading_method": "tick"
+}
